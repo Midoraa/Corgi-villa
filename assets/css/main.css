@@ -1,0 +1,17 @@
+.alternating-colors h1{
+    color: #00704A;
+    font-size: medium;
+    padding-top: 2vh;
+}
+
+.alternating-colors li{
+    margin-bottom: 5px;
+}
+
+.qr .thank{
+    padding: 0 10%;
+}
+
+.qr .qr-code{
+    padding: 0 30%;
+}
